@@ -154,7 +154,6 @@ TfidfVectorizer(
 
 The project used:
 
-* GridSearchCV
 * RandomizedSearchCV
 
 ## Parameters Tuned
